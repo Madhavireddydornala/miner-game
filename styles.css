@@ -153,7 +153,7 @@ body {
   .score-btn {
       background-color: #20ba2f;
       color: white;
-      padding-left: 12px ;
+      padding: 15px ;
       font-size: 16px;
       font-weight: bold;
       border: none;
@@ -168,7 +168,7 @@ body {
   .high-btn {
     background-color: #20ba2f;
     color: white;
-    padding-left: 12px ;
+    padding: 15px ;
     font-size: 16px;
     font-weight: bold;
     border: none;
@@ -183,7 +183,7 @@ body {
   .timer-btn {
     background-color: #ef1919;
     color: rgb(15, 9, 9);
-    padding-left: 12px ;
+    padding: 15px ;
     font-size: 16px;
     font-weight: bold;
     border: none;
@@ -198,7 +198,7 @@ body {
   .mines-btn {
     background-color: #20ba2f;
     color: white;
-    padding-left: 12px ;
+    padding: 15px ;
     font-size: 16px;
     font-weight: bold;
     border: none;
