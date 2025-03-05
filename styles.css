@@ -115,7 +115,7 @@ body {
       margin: 20px auto;
       justify-content: center;
       width: fit-content;
-      margin-top:15rem;
+      margin-top:20rem;
   }
   
   /* Individual Grid Cells */
@@ -161,7 +161,7 @@ body {
       cursor: pointer;
       transition: all 0.3s ease-in-out;
       box-shadow: none;
-      margin-left: 2rem;
+      
       transform: scale(1.05);
       opacity: 0.9;
   } 
@@ -176,7 +176,7 @@ body {
     cursor: pointer;
     transition: all 0.3s ease-in-out;
     box-shadow: none;
-    margin-left: 12rem;
+    
     transform: scale(1.05);
     opacity: 0.9;
   }
@@ -191,7 +191,7 @@ body {
     cursor: pointer;
     transition: all 0.3s ease-in-out;
     box-shadow: none;
-    margin-left: 12rem;
+    
     transform: scale(1.05);
     opacity: 0.9;
   }
@@ -206,7 +206,7 @@ body {
     cursor: pointer;
     transition: all 0.3s ease-in-out;
     box-shadow: none;
-    margin-left: 12rem;
+    
     transform: scale(1.05);
     opacity: 0.9;
   }
